@@ -101,9 +101,7 @@ Look out the test function in the 'Symbol Tree' widget and select it to view the
 
 ### Understanding the Function: test()
 
-The test function&#x20;
-
-takes two parameters: `param_1` and `param_2`, both of type `char`. Here's an explanation of what the function does:
+The test function takes two parameters: `param_1` and `param_2`, both of type `char`. Here's an explanation of what the function does:
 
 * `if ((param_1 == ':') || (param_2 == '@'))`: This `if` statement checks if either `param_1` is equal to ':' or `param_2` is equal to '@'.
 * If either condition is true, meaning if `param_1` is ':' or `param_2` is '@', the code inside the curly braces following the `if` statement will execute.
